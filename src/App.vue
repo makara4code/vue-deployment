@@ -9,7 +9,7 @@ import vueLogo from "@/assets/images/vue-img.jpeg"
     <img alt="Vue logo" class="logo" :src="vueLogo" width="125" height="125" style="object-fit: cover;" />
 
     <div class="wrapper">
-      <HelloWorld msg="You did it!" />
+      <HelloWorld msg="Hello world my app!" />
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
